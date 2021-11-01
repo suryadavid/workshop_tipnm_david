@@ -1,11 +1,8 @@
 #TUGAS WORKSHOP GIT DAN GITHUB
 
 Nama : David Surya Wijaya
-
 NPM  : 213307065
-
 Kelas : 1C
-
 Keinginan setelah lulus kuliah dari prodi TI PNM : 1. Ingin Membahagiakan kedua Orang Tua 
                                                    2. Ingin bekerja di perusahaan UNICRON 
                                                    3. Ingin punya starup sendiri
